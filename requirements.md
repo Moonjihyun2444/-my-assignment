@@ -1,4 +1,4 @@
-# 팀코드 50808
+# 내코드 50808
 
 ## Use Case Requirements
 
