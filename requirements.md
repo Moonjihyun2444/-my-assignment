@@ -1,4 +1,4 @@
-# 내코드 50808
+# 개인코드 50808
 
 ## Use Case Requirements
 
