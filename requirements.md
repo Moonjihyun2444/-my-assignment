@@ -1,4 +1,4 @@
-# 개인코드 50808
+# 개인코드 50808, 개인 GitHub 주소: https://github.com/moonjihyun2444/my-assignment
 
 ## Use Case Requirements
 
